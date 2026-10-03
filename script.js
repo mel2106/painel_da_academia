@@ -65,3 +65,5 @@ function lista() {
     console.log(matrizAlunos);
     return matrizAlunos;
 }
+
+main();
